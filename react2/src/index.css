@@ -1,0 +1,20 @@
+
+body{
+  background-color: rgb(118, 91, 91);
+}
+.card{
+  background-color: pink;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.nav{
+  background-color: aqua;
+  font-size: medium;
+  font-weight: 20px;
+  text-align: center;
+  
+    margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}

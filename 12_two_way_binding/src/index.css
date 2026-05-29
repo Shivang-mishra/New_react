@@ -1,0 +1,14 @@
+html,
+body{
+  background-color: black;
+  padding: 0;
+}
+
+button,input{
+  margin: 10px  20px;
+  padding: 10px;
+  background-color: aquamarine;
+  border-radius: 10px ;
+  border: none;
+  box-shadow:  3 2 6px solid red;
+}
